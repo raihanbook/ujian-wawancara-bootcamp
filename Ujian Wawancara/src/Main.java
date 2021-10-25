@@ -47,7 +47,7 @@ public class Main {
 	public void soalEnam() {
 		Scanner sn = new Scanner(System.in);
 		int counter = 1;
-		System.out.print("Masukkan ukuran persegi = ");	
+		System.out.print("Input = ");	
 		int ukuran = sn.nextInt();
 		
 		for (int i = 0; i < ukuran; i++) {
